@@ -1,0 +1,14 @@
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\bin\Debug\net8.0\LinqProject.exe
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\bin\Debug\net8.0\LinqProject.deps.json
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\bin\Debug\net8.0\LinqProject.dll
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\bin\Debug\net8.0\LinqProject.pdb
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.dll
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\refint\LinqProject.dll
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.pdb
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+C:\Users\aydog\Desktop\netFramework\CSharpIntro\LinqProject\obj\Debug\net8.0\ref\LinqProject.dll
